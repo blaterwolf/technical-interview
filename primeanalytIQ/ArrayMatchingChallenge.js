@@ -33,13 +33,8 @@ function ArrayMatchingChallenge(strArr) {
   let result = [];
   strArr[indexWithLongestArray].forEach((element, index) => {
     // * Kung yung index ay out of bounds na i-add na lang yung remaining elements...
-    if (isNaN(strArr[0][index])) {
-      result.push(element);
-    } else {
-      // * Sum the element and the element in the first array
-      let sum = element + strArr[0][index];
-      result.push(sum);
-    }
+    let num1 = isNaN(strArr[0][index]) ? 0 : strArr[0][index];
+    result.push(num1 + element);
   });
 
   return result.join("-");

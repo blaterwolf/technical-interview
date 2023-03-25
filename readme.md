@@ -7,5 +7,9 @@
 📁 **primeanalytIQ**
     - My technical interview answers in my internship application in PrimeAnalytIQ
     - Took me at least ~30 minutes.
-    - May video sa Skype (you should download it and update it...)
+    - May video sa Skype (you should download it and put it here...)
 
+📁 **OOCL**
+    - My technical interview answers in my internship application in OOCL
+    - Nakalimutan ko na kung ilang minutes yon pero I think mga nasa isang oras rin. (will update)
+    - May OBS recording rin ako nun afaik (upload to Youtube and put it here...)
