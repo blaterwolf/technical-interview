@@ -13,3 +13,8 @@
     - My technical interview answers in my internship application in OOCL
     - Nakalimutan ko na kung ilang minutes yon pero I think mga nasa isang oras rin. (will update)
     - May OBS recording rin ako nun afaik (upload to Youtube and put it here...)
+
+📁 **Technomancer**
+    - not jobless era anymore
+    - 2:48PM to 4:22PM for two coding exams SA PAPEL
+    - ayun natanggap ganda lang
